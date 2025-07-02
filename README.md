@@ -9,7 +9,7 @@ Discover the rest of the features yourself.
 
 Download commands 
 ```bash
-https://github.com/Toma1264git0hub/xss-hunt.git
+git clone https://github.com/Toma1264git0hub/xss-hunt.git
 ```
 ```bash
 cd xss-hunt
